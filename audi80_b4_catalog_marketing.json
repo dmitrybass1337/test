@@ -1,0 +1,161 @@
+{
+  "model": {
+    "manufacturer": "AUDI",
+    "range": "80 B4 8C2, 8C5 09/1991-07/1995",
+    "engine": "2.0 (ABT)",
+    "power": "66 (90) kW (h.p.)",
+    "year": "09/91-12/94",
+    "chassis": "8C-R-125 0-"
+  },
+  "catalog": {
+    "title": "TrackLine каталог ходовой Audi 80 B4",
+    "subtitle": "Подвеска и рулевое управление для Audi 80 B4 2.0 ABT (09/1991–07/1995)",
+    "catalog_url": "https://www.rts-sa.com/ru/kupite-neobkhodimuyu-vam-detal",
+    "offline": true,
+    "language": "ru",
+    "target_audience": ["СТО", "магазины автозапчастей", "специалисты по VAG"],
+    "cta_text": "Назовите продавцу код TrackLine или отправьте фото строки каталога",
+    "how_to_use": [
+      "Найдите модель автомобиля и нужную систему (подвеска / рулевое управление).",
+      "Выберите деталь по позиции, описанию и OEM-номеру.",
+      "Назовите продавцу код TrackLine или покажите строку каталога на экране."
+    ],
+    "expert_tips": [
+      "Рекомендуется менять парные элементы (стойки стабилизатора, рычаги, шаровые) с обеих сторон оси.",
+      "При замене рычагов обязательно проверяйте состояние сайлентблоков и шаровых опор.",
+      "Используйте OEM-номер для быстрой сверки применяемости в оригинальных каталогах VAG."
+    ]
+  },
+  "parts": [
+    {
+      "rts": "017-00594",
+      "name": "Сайлентблок рычага",
+      "category": "Подвеска",
+      "type": "Silentblock",
+      "oem": ["857407181", "8A0407181"],
+      "position": "Передний",
+      "notes": "cil 4,5,6; ch 8C-R-125 0-",
+      "page": "стр. 54",
+      "image_local": "017-00594.jpg",
+      "image_alt": "Сайлентблок рычага Audi 80 B4 TrackLine 017-00594",
+      "link_rts": "https://www.rts-sa.com/ru/kupite-neobkhodimuyu-vam-detal?codigo=017-00594"
+    },
+    {
+      "rts": "032-00039",
+      "name": "Сайлентблок рулевой тяги",
+      "category": "Рулевое управление",
+      "type": "Mounting tie rod",
+      "oem": ["377419801", "811419801E"],
+      "position": "Рулевой",
+      "notes": "для ГУР; cil 4,5,6",
+      "page": "стр. 54",
+      "image_local": "032-00039.jpg",
+      "image_alt": "Сайлентблок рулевой тяги Audi 80 B4 TrackLine 032-00039",
+      "link_rts": "https://www.rts-sa.com/ru/kupite-neobkhodimuyu-vam-detal?codigo=032-00039"
+    },
+    {
+      "rts": "76-00594-1",
+      "name": "Рычаг передний правый",
+      "category": "Подвеска",
+      "type": "Control arm",
+      "oem": ["895407148A"],
+      "position": "Передний правый",
+      "notes": "cil 4,5,6; ch 8C-R-125 0-",
+      "page": "стр. 54",
+      "image_local": "76-00594-1.jpg",
+      "image_alt": "Рычаг передний правый Audi 80 B4 TrackLine 76-00594-1",
+      "link_rts": "https://www.rts-sa.com/ru/kupite-neobkhodimuyu-vam-detal?codigo=76-00594-1"
+    },
+    {
+      "rts": "76-00594-2",
+      "name": "Рычаг передний левый",
+      "category": "Подвеска",
+      "type": "Control arm",
+      "oem": ["895407147A"],
+      "position": "Передний левый",
+      "notes": "cil 4,5,6; ch 8C-R-125 0-",
+      "page": "стр. 54",
+      "image_local": "76-00594-2.jpg",
+      "image_alt": "Рычаг передний левый Audi 80 B4 TrackLine 76-00594-2",
+      "link_rts": "https://www.rts-sa.com/ru/kupite-neobkhodimuyu-vam-detal?codigo=76-00594-2"
+    },
+    {
+      "rts": "90-05901",
+      "name": "Рулевая тяга (с ГУР)",
+      "category": "Рулевое управление",
+      "type": "Tie rod",
+      "oem": ["811419801C"],
+      "position": "Рулевой",
+      "notes": "для ГУР; cil 4,5,6",
+      "page": "стр. 54",
+      "image_local": "90-05901.jpg",
+      "image_alt": "Рулевая тяга с ГУР Audi 80 B4 TrackLine 90-05901",
+      "link_rts": "https://www.rts-sa.com/ru/kupite-neobkhodimuyu-vam-detal?codigo=90-05901"
+    },
+    {
+      "rts": "90-05970",
+      "name": "Рулевая тяга",
+      "category": "Рулевое управление",
+      "type": "Tie rod",
+      "oem": ["893419802"],
+      "position": "Рулевой",
+      "notes": "без ГУР; cil 4,5,6",
+      "page": "стр. 54",
+      "image_local": "90-05970.jpg",
+      "image_alt": "Рулевая тяга Audi 80 B4 TrackLine 90-05970",
+      "link_rts": "https://www.rts-sa.com/ru/kupite-neobkhodimuyu-vam-detal?codigo=90-05970"
+    },
+    {
+      "rts": "91-00908",
+      "name": "Наружный наконечник рулевой тяги",
+      "category": "Рулевое управление",
+      "type": "Tie rod end",
+      "oem": ["811419812A", "811419812B"],
+      "position": "Рулевой",
+      "notes": "наружный; cil 4,5,6",
+      "page": "стр. 54",
+      "image_local": "91-00908.jpg",
+      "image_alt": "Наружный наконечник рулевой тяги Audi 80 B4 TrackLine 91-00908",
+      "link_rts": "https://www.rts-sa.com/ru/kupite-neobkhodimuyu-vam-detal?codigo=91-00908"
+    },
+    {
+      "rts": "93-05940-056",
+      "name": "Шаровая опора правая (комплект)",
+      "category": "Подвеска",
+      "type": "Ball joint",
+      "oem": ["895407365", "8A0407365"],
+      "position": "Нижняя правая",
+      "notes": "комплект; ch 8C-N-175 5-; cil 4,5,6",
+      "page": "стр. 54",
+      "image_local": "93-05940-056.jpg",
+      "image_alt": "Шаровая опора правая Audi 80 B4 TrackLine 93-05940-056",
+      "link_rts": "https://www.rts-sa.com/ru/kupite-neobkhodimuyu-vam-detal?codigo=93-05940-056"
+    },
+    {
+      "rts": "93-05941-056",
+      "name": "Шаровая опора левая (комплект)",
+      "category": "Подвеска",
+      "type": "Ball joint",
+      "oem": ["895407366", "8A0407366"],
+      "position": "Нижняя левая",
+      "notes": "комплект; ch 8C-N-175 5-; cil 4,5,6",
+      "page": "стр. 54",
+      "image_local": "93-05941-056.jpg",
+      "image_alt": "Шаровая опора левая Audi 80 B4 TrackLine 93-05941-056",
+      "link_rts": "https://www.rts-sa.com/ru/kupite-neobkhodimuyu-vam-detal?codigo=93-05941-056"
+    },
+    {
+      "rts": "97-05342",
+      "name": "Стойка стабилизатора",
+      "category": "Подвеска",
+      "type": "Stabiliser link",
+      "oem": ["893407465", "893407465A", "8A0407465"],
+      "position": "Стабилизатор передней оси",
+      "notes": "cil 4,5,6",
+      "page": "стр. 55",
+      "image_local": "97-05342.jpg",
+      "image_alt": "Стойка стабилизатора Audi 80 B4 TrackLine 97-05342",
+      "link_rts": "https://www.rts-sa.com/ru/kupite-neobkhodimuyu-vam-detal?codigo=97-05342"
+    }
+  ]
+}
